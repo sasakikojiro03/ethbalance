@@ -1,2 +1,2 @@
 # ethbalance
-checking eth balance
+checking eth balance, 0x balance
