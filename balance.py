@@ -13,6 +13,7 @@ polygon_url = 'https://polygon-rpc.com'
 linea_rpc = 'https://rpc.goerli.linea.build'
 avax_testnet = 'https://rpc.ankr.com/avalanche_fuji'
 op = 'https://opt-mainnet.g.alchemy.com/v2/demo'
+zksync = ''
 
 #Smart contract
 token_address = '0x60e6895184448f3e8ef509d083e3cc3ac31f82fd'
